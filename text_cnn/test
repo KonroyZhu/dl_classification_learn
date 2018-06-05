@@ -1,0 +1,14 @@
+<div class="col-md-6" id="effect_word" >
+						  <div style="width:600px;height:700px" id="tagsList" >
+							<a href="#" data="天气" style="left: -3.64437px; top: 167.451px; font-size: 15px; opacity: 0.839719; z-index: 1;">天气          </a>
+							<a href="#" data="休渔" style="left: 49.006px; top: 221.592px; font-size: 14px; opacity: 0.625344; z-index: 10;"> 休渔          </a>
+							<a href="#" data="汛期" style="left: 99.7596px; top: 213.26px; font-size: 16px; opacity: 1.1362; z-index: 2;">    汛期          </a>
+							<a href="#" data="市场" style="left: 71.2836px; top: 140.404px; font-size: 18px; opacity: 1.6791; z-index: 3;">   市场           </a>
+							<a href="#" data="台风" style="left: 16.8814px; top: 82.9796px; font-size: 16px; opacity: 1.21772; z-index: 4;">  台风           </a>
+							<a href="#" data="节日" style="left: -10.2539px; top: 86.7675px; font-size: 14px; opacity: 0.592194; z-index: 5;">节日          </a>
+							<a href="#" data="春节" style="left: 23.2202px; top: 139.909px; font-size: 13px; opacity: 0.306834; z-index: 6;"> 春节         </a>
+							<a href="#" data="一带一路" style="left: 96.9498px; top: 196.784px; font-size: 13px; opacity: 0.29725; z-index: 7;">一带一路          </a>
+							<a href="#" data="河流" style="left: 165.924px; top: 213.909px; font-size: 14px; opacity: 0.53831; z-index: 8;">  河流                </a>
+							<a href="#" data="暴雨" style="left: 184.754px; top: 175.899px; font-size: 16px; opacity: 1.05214; z-index: 9;">  暴雨               </a>
+							<a href="#" data="季节" style="left: 155.925px; top: 101.842px; font-size: 18px; opacity: 1.56828; z-index: 0;">  季节              </a>
+						</div>
